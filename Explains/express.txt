@@ -1,0 +1,10 @@
+express node js icerisnindeki en cok kullanılan moduledir
+
+EXSPRESS IN AVANTAJLARI 
+  -> express is a minimal node.js framework, a higher level of abstraction 
+  -> express contains a very robust set of features: complex routing, easier handling of request and 
+     responses, middleware, server-side rendering, etc 
+  -> express allows for rapid development of node.js applications: we do not need invent the wheel again 
+  -> express make it easier to organise our application into the MVC architecture 
+  
+    

@@ -1,0 +1,7 @@
+
+stateles Restfull apı:
+    -> all the staes hadled on the clinet. This means all requests must contain all the information 
+       necessary to process a certain requests. The server should not have to remember previous requests.
+
+
+    
